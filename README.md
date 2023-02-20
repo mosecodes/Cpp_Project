@@ -2,6 +2,6 @@
 
 Features include Pointers, Memory Management, Classes, Objects, Inheritance, and Functions.
 
-I intend to expand this project as I learn more, specifically things like user inputs for things like new students, displaying specific data, and more(?)
+I intend to expand this project as I learn more. Specifically, user inputs for things like new students, displaying specific data, and more(?)
 
 Thanks for visiting!
